@@ -1,6 +1,6 @@
-# Pokemon
+# Treekachu
 
-Pokemon Swag
+An app to help tree planting.
 
 # Demo
 https://youtu.be/RG6FFL2ny3s
