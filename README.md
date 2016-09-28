@@ -10,7 +10,7 @@ An app to help tree planting.
 
 <br><br>
 
-Original Repo here: 
+# Original Repo here: 
 
 - <a href="https://github.com/VctrySam/Pokemon">Pokemon React Native Clone</a>
 
