@@ -6,7 +6,7 @@
 
 An app to help tree planting. There's a lot of social and political demand for reforestation initiatives:
 
-> China plans to plant 26 billion trees in the next decade that is two trees for every Chinese citizen per year.[24] China requires that students older than 11 years old plant one tree a year until their high school graduation. Trees for the Future has assisted more than 170,000 families, in 6,800 villages of Asia, Africa and the Americas, to plant over 35 million trees. Wangari Maathai, 2004 Nobel Peace Prize recipient, founded the Green Belt Movement which planted over 47 million trees to restore the Kenyan environment.Shanghai Roots & Shoots, a division of the Jane Goodall Institute, launched The Million Tree Project in Kulun Qi, Inner Mongolia to plant one million trees to stop desertification and alleviate global warming.[32][33]
+> China plans to plant 26 billion trees in the next decade that is two trees for every Chinese citizen per year.[24] China requires that students older than 11 years old plant one tree a year until their high school graduation. Trees for the Future has assisted more than 170,000 families, in 6,800 villages of Asia, Africa and the Americas, to plant over 35 million trees. Wangari Maathai, 2004 Nobel Peace Prize recipient, founded the Green Belt Movement which planted over 47 million trees to restore the Kenyan environment. Shanghai Roots & Shoots, a division of the Jane Goodall Institute, launched The Million Tree Project in Kulun Qi, Inner Mongolia to plant one million trees to stop desertification and alleviate global warming.[32][33]
 
 https://en.wikipedia.org/wiki/Reforestation
 https://en.wikipedia.org/wiki/Urban_reforestation
