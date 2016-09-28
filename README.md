@@ -4,7 +4,7 @@ An app to help tree planting.
 
 <br><br>
 
-##Idea Stress tested:
+#Tree Planting App Idea Stress tested:
 
 - <a href="https://www.reddit.com/r/SomebodyMakeThis/comments/50lqav/smt_treekachu_a_pokemon_go_clone_for_treeplanting">Treekachu stress-tested on Reddit</a>
 
@@ -25,3 +25,9 @@ https://youtu.be/RG6FFL2ny3s
 - Clone
 - npm install in the terminal
 - Run on IOS emulator or Android
+
+<br><br>
+
+#Reforestation Subreddit
+
+https://www.reddit.com/r/Reforestation
